@@ -1,0 +1,8 @@
+1 En tus palabras, ¿Qué es internet?
+-Internet es algo muy importante que nos ayuda a poder estar conectados a las redes sociales y asi 
+2 Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+-El medio de transmisión constituye el soporte físico a través del cual emisor y receptor pueden comunicarse en un sistema de transmisión de datos.
+3 ¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+-DNS son las iniciales de Domain Name System (sistema de nombres de dominio) y es una tecnología basada en una base de datos que sirve para resolver nombres en las redes
+4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+-el servidor detecta que estas mandando una señal, o una indicación de que quieres escuchar una canción y gracias a eso el servidor te manda el audio en tiempo real, es un proceso servidor 
