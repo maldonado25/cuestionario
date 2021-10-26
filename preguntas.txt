@@ -7,3 +7,20 @@ jose maria maldonado son las primeras preguntas y alan venegas 93
 -DNS son las iniciales de Domain Name System (sistema de nombres de dominio) y es una tecnología basada en una base de datos que sirve para resolver nombres en las redes
 4 Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular. 
 -el servidor detecta que estas mandando una señal, o una indicación de que quieres escuchar una canción y gracias a eso el servidor te manda el audio en tiempo real, es un proceso servidor 
+5 Describe los protocolos que existen en internet, en específico HTTP
+y HTML
+es un sencillo protocolo servidor/cliente que articula y procesa los
+cambios
+6 En dos párrafos cuéntanos lo que aprendiste sobre encriptación y
+llaves públicas.
+es una forma de cerrar tu codigo para que no sea libre de usar y
+copiar
+y las llaves publicas son lavves que te permiten estar en ciertas
+paginas web sin ningun problema ni necesidad de cosas especiales
+es decir requerimientos
+7 En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de
+los criminales en internet.
+usar antivirus y en ciertas ocasiones un vpn
+8 ¿Cómo funciona la búsqueda de google?
+pones cierta cantidad de palabras que concuerden con busquedas
+anteriores y te da los resultados mas comunes y visitados de ese tema 
